@@ -50,7 +50,7 @@ h1{
     font-size: 50px;
     color:blue;
     text-align: center;
-    background-color: #909090;
+    background-color: rgb(255, 156, 207);
     margin: 0 auto;rgb(230, 230, 230)
 	margin-bottom: 10px;
 
@@ -60,17 +60,24 @@ h1{
 	text-align: center;
 	display: flex;
 	justify-content: space-around;
+	background-color: rgb(255, 177, 200);
 	
 }
 .chang{
 	border: 1px solid black;
 	background-color: rgb(252, 145, 145);
+	padding: 20px;
+	margin: 10px;
 }
 .ya{
 	border: 1px solid black;
 	background-color: rgb(237, 237, 148);
+	padding: 20px;
+	margin: 10px;
 }
 .zhu{
 	border: 1px solid black;
 	background-color: rgb(149, 235, 149);
+	padding: 20px;
+	margin: 10px;
 }
